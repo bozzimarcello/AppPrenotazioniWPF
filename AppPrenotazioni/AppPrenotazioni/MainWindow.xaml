@@ -6,7 +6,8 @@
         xmlns:local="clr-namespace:AppPrenotazioni"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
+    <StackPanel>
+        <Button x:Name="BtnTest" Content="Test" />
 
-    </Grid>
+    </StackPanel>
 </Window>
